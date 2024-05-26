@@ -1,5 +1,6 @@
 google.com, pub-3925850724927301, DIRECT, f08c47fec0942fa0
 facebook.com, 179749297099293, DIRECT, c3e20eee3f780d68
+google.com, pub-9218319066924950, DIRECT, f08c47fec0942fa0
 #for smaato
 smaato.com, 1100054004, RESELLER, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
